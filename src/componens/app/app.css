@@ -1,2 +1,6 @@
-.todo-app {}
+.todo-app {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: .75rem;
+}
 
